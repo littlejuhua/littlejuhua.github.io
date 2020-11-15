@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://littlejuhua.github.io/post/blog/</loc>
-    <lastmod>2020-11-15T16:42:52+08:00</lastmod>
+    <loc>https://littlejuhua.github.io/</loc>
+    <lastmod>2020-11-15T17:04:12+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://littlejuhua.github.io/</loc>
-    <lastmod>2020-11-15T16:42:52+08:00</lastmod>
+    <loc>https://littlejuhua.github.io/post/newblog/</loc>
+    <lastmod>2020-11-15T17:04:12+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://littlejuhua.github.io/post/</loc>
+    <lastmod>2020-11-15T17:04:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://littlejuhua.github.io/post/blog/</loc>
     <lastmod>2020-11-15T16:42:52+08:00</lastmod>
   </url>
   
